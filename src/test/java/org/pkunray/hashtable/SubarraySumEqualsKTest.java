@@ -1,4 +1,4 @@
-package hashtable;
+package org.pkunray.hashtable;
 
 import org.junit.jupiter.api.Test;
 
